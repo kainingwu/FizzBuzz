@@ -39,5 +39,4 @@ public class MultiplesTest {
                 Multiples.multiples(1000, 4, 4),
                 "Multiples.multiples(1000, 4, 4) is incorrect.");
     }
-
 }
