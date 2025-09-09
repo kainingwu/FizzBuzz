@@ -8,7 +8,7 @@ public class Reduce {
         System.out.println(count);
     }
 
-    private static int reduce(int n) {
+    public static int reduce(int n) {
         int count;
         if (n % 2 == 0) {
             count = n / 2 + 1;
